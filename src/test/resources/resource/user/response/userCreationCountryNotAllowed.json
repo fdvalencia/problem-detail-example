@@ -1,0 +1,7 @@
+{
+  "status": 400,
+  "type": "https://example.com/problem/country-not-allowed",
+  "title": "The country is not allowed",
+  "detail": "The country is not allowed",
+  "instance": "/user"
+}

@@ -1,0 +1,7 @@
+{
+  "status": 500,
+  "type": "about:blank",
+  "title": "Internal Server Error",
+  "detail": "HTTP 500 Internal Server Error",
+  "instance": "/user"
+}

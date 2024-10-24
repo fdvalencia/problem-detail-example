@@ -1,0 +1,7 @@
+{
+  "status": 400,
+  "type": "https://example.com/problem/user-already-exists",
+  "title": "User already exists",
+  "detail": "User already exists",
+  "instance": "/user"
+}

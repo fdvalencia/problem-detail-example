@@ -1,0 +1,13 @@
+{
+  "status": 400,
+  "type": "about:blank",
+  "title": "Bad Request",
+  "instance": "/user",
+  "violations": [
+    {
+      "field": "name",
+      "in": "body",
+      "message": "must not be null"
+    }
+  ]
+}

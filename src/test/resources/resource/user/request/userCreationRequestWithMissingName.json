@@ -1,0 +1,22 @@
+{
+  "name": null,
+  "email": "fede@fede.com",
+  "phone": {
+    "countryCode": "ES",
+    "number": "99999"
+  },
+  "address": {
+    "street": {
+      "name": "Carrer Castillejos",
+      "number": "361"
+    },
+    "postalCode": "08025",
+    "city": "Barcelona",
+    "countryCode": "ES"
+  },
+  "preference": {
+    "marketingEmailsConsent": true,
+    "sendPrintedMemberCard": true,
+    "preferredLanguage": "en"
+  }
+}
